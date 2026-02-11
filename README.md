@@ -7,6 +7,13 @@ I am a Cybersecurity student based in Burkina Faso, currently building my techni
 - 🌱 **I’m currently learning:** How to harden Ubuntu systems and analyze network traffic.
 - 🥅 **2026 Goals:** Obtain CCNA (200-301) and master Python for security automation.
 - ⚡ Passionate about understanding how data flows across networks and how attackers exploit it.
+  
+🔎 Current Focus:
+- Mastering TCP/IP fundamentals
+- Practicing subnetting daily
+- Building hands-on labs for CCNA preparation
+
+  
 
 #### 🛠️ My Technical Stack
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=flat&logo=cisco)
