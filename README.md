@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Yasser! 👋
+#### 🛡️ Aspiring SOC Analyst | Network & Security Enthusiast
 
-<!--
-**Oyar12/Oyar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cybersecurity student based in Burkina Faso, currently building my technical foundations to defend critical infrastructures. My journey is documented here, one lab at a time.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Cisco Networking Basics & Linux Administration.
+- 🌱 **I’m currently learning:** How to harden Ubuntu systems and analyze network traffic.
+- 🥅 **2026 Goals:** Obtain CCNA (200-301) and master Python for security automation.
+- ⚡ **Fun fact:** I started visualizing packets before I could even ping!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ My Technical Stack
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=flat&logo=cisco)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat&logo=linux)
+![VirtualBox](https://img.shields.io/badge/Virtualization-VirtualBox-blueviolet?style=flat&logo=virtualbox)
+![Security](https://img.shields.io/badge/Security-SOC_Ops-red?style=flat&logo=kalilinux)
+
+---
+[Connect with me on LinkedIn](www.linkedin.com/in/yasser-abdoul-rachid-ouedraogo-analyst-soc)
