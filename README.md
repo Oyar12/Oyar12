@@ -12,14 +12,21 @@ to defend critical infrastructures. My journey is documented here, one lab at a 
 - TryHackMe SOC Analyst learning path
 
 ## 🌱 Currently Learning
-- Ubuntu system hardening
-- Network traffic analysis with Wireshark
+- How to harden Ubuntu systems and analyze network traffic
 - Python scripting for security automation
 
 ## 🥅 2026 Goals
 - ✅ Obtain CCNA (200-301)
 - ✅ Master Python for security automation
 - ✅ Complete TryHackMe SOC Level 1 path
+
+## ⚡ Passionate About
+- Understanding how data flows across networks and how attackers exploit it.
+
+## 🔎 Current Focus
+- Mastering TCP/IP fundamentals
+- Practicing subnetting daily
+- Building hands-on labs for CCNA preparation
 
 ---
 
