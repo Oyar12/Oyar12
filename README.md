@@ -65,7 +65,7 @@
 
 <div align="center">
   <h2>📊 GitHub Activity & Stats</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oyar12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Yasser's GitHub Activity Graph" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oyar12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Yasser's GitHub Activity Graph" width="800" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oyar12&theme=dark&hide_border=true" alt="Yasser's GitHub Streak" />
 </div>
