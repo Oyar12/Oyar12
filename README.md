@@ -51,9 +51,15 @@ to defend critical infrastructures. My journey is documented here, one lab at a 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-![Yasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oyar12&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oyar12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Yasser's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oyar12&theme=dark&hide_border=true" alt="Yasser's GitHub Streak" />
+</p>
 
 ---
 
